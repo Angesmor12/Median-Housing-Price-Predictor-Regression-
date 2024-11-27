@@ -124,7 +124,7 @@ document.querySelector('.calculate').addEventListener('click', async () => {
 
   loadingImage.classList.add("hidden")
   MedianHouseValue.classList.remove("hidden")
-  document.querySelector("#median_house_value_value").innerHTML = " $" + deNormalizePrediction
+  document.querySelector("#median_house_value_value").innerHTML = " $" + Math.abs(deNormalizePrediction)
   allow = 1
   
 }
