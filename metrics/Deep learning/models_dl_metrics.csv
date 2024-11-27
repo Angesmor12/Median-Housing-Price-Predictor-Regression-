@@ -1,0 +1,79 @@
+,Dataset,loss
+0,train-dataset,0.08027018018066884
+1,train-dataset_wp,0.08672325234115123
+2,train-dataset_outliers,0.06992038504742995
+3,train-dataset_wp_outliers,0.07859273437587988
+4,train-dataset_isolation,0.07603923784203181
+5,train-dataset_wp_isolation,0.08519808882403941
+6,train-dataset_log,0.07955304981768131
+7,train-dataset_wp_log,0.0896545943915844
+8,train-dataset_sample,0.09535212218761444
+9,train-dataset_l,0.10316202315688133
+10,train-dataset_wp_l,0.10274333000183106
+11,train-dataset_outliers_l,0.09537053079139896
+12,train-dataset_wp_outliers_l,0.09382534754418191
+13,train-dataset_isolation_l,0.10264492085943483
+14,train-dataset_wp_isolation_l,0.10109086700138592
+15,train-dataset_log_l,0.10656248205900193
+16,train-dataset_wp_log_l,0.10595851537585259
+17,train-dataset_representative,0.14026913046836853
+18,train-dataset_outliers_representative,0.12975265830755234
+19,train-dataset_isolation_l_generated,0.10747197883749249
+20,train-dataset_isolation_generated,0.09325098923661491
+21,train-dataset_outliers_generated,0.0879079495524538
+22,train-dataset_outliers_l_generated,0.10070235631589232
+23,train-dataset_reduce_l,0.10912478557229043
+24,train-dataset_reduce_outliers_l,0.09667550387178979
+25,train-dataset_reduce_isolation_l,0.10178639294077817
+26,dataset,0.08232866150755731
+27,dataset_wp,0.088939968792219
+28,dataset_outliers,0.0726951126439067
+29,dataset_wp_outliers,0.07850135398923226
+30,dataset_isolation,0.07600044079802253
+31,dataset_wp_isolation,0.08620384223056289
+32,dataset_log,0.08234478355873198
+33,dataset_wp_log,0.0843681086978269
+34,dataset_sample,0.08709532395005226
+35,dataset_l,0.1039175269386125
+36,dataset_wp_l,0.1047266987817628
+37,dataset_outliers_l,0.09553913213312626
+38,dataset_wp_outliers_l,0.09678610301804992
+39,dataset_isolation_l,0.10520718260244889
+40,dataset_wp_isolation_l,0.10292188640473024
+41,dataset_log_l,0.10625854938749284
+42,dataset_wp_log_l,0.10680944105935475
+43,dataset_representative,0.1568167261183262
+44,dataset_outliers_representative,0.17950269204378128
+45,dataset_isolation_l_generated,0.10616075157519154
+46,dataset_isolation_generated,0.09441616561188794
+47,dataset_outliers_generated,0.08722279500858537
+48,dataset_outliers_l_generated,0.10059900879859925
+49,dataset_reduce_l,0.10835036493483044
+50,dataset_reduce_outliers_l,0.09236892198140804
+51,dataset_reduce_isolation_l,0.10235913219777021
+52,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset,0.08944747270426795
+53,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_wp,0.09333702088392612
+54,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_outliers,0.07990931348467711
+55,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_wp_outliers,0.08364039651033553
+56,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_isolation,0.08550070643263019
+57,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_wp_isolation,0.08972921460923372
+58,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_log,0.0912477035853493
+59,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_wp_log,0.09475826060611613
+60,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_sample,0.17311768047511578
+61,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_l,0.11137982738451868
+62,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_wp_l,0.11171106748943088
+63,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_outliers_l,0.09993235394358635
+64,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_wp_outliers_l,0.09942486585879867
+65,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_isolation_l,0.10701613632989102
+66,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_wp_isolation_l,0.10613684017549863
+67,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_log_l,0.11250006765881672
+68,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_wp_log_l,0.11221072730855852
+69,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_representative,0.19521209970116615
+70,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_outliers_representative,0.13650060072541237
+71,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_isolation_l_generated,0.10912378115319116
+72,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_isolation_generated,0.09668598234933871
+73,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_outliers_generated,0.08994474850472185
+74,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_outliers_l_generated,0.10386593147580114
+75,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_reduce_l,0.11159153221340119
+76,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_reduce_outliers_l,0.10038363910280168
+77,Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation Cross-Validation dataset_reduce_isolation_l,0.10744235904860323

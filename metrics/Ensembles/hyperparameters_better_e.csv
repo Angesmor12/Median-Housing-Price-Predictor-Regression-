@@ -1,0 +1,6 @@
+,Dataset,Algorithm,bootstrap,max_depth,max_features,min_samples_leaf,min_samples_split,n_estimators,max_samples,learning_rate,loss,estimator__max_depth,estimator__min_samples_split,subsample
+0,dataset,Random-Forest,True,20.0,sqrt,1.0,2.0,100.0,,,,,,
+1,dataset,Extra-Trees,True,20.0,sqrt,1.0,2.0,100.0,,,,,,
+2,dataset,Bagging,True,,,,,100.0,0.8,,,,,
+3,dataset,Ada-Boost,,,,,,200.0,,0.001,linear,5.0,2.0,
+4,dataset,Gradient-Boosting-Regressor,,10.0,sqrt,2.0,10.0,100.0,,0.1,,,,1.0

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Median Housing Price Predictor</title>
+    <link rel="stylesheet" href="./styles/index.css">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1" />
+    <meta name='keywords' content='ia, regression, artificial intelligence, machine learning, predictive modeling, housing prices, real estate, neighborhood analysis, median house value, property valuation, regression models, AI tools, home pricing, data analysis' />
+    <meta name='author' content='Angelo Smorlesi' />
+    <meta name='description' content='A website where you can provide the characteristics of a neighborhood to obtain the median house price in that area.' />
+    <meta name='copyright' content='Angelo Smorlesi' />
+    <meta name='robots' content='index,follow,translate' />
+    <link rel="icon" href="./images/neighborhood.ico" type="image/x-icon" />
+
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.14.0/dist/onnxruntime-web.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <img
+          class="neighborhood-image"
+          src="./images/neighborhood-min.png"
+          alt="neighborhood">
+        <div class="container-text">
+          <h2>Median Neighborhood Housing Price Predictor</h2>
+          <p>Enter the characteristics of a neighborhood and you will receive the estimated median house price in the area. This artificial intelligence algorithm has been trained with fewer than 20.000 data.</p>
+          <div class="input-container">
+
+            <select class="algorithm-input">
+              <option value="neural_network" selected>Neural network</option>
+              <option value="bagging">Bagging</option>
+            </select>
+
+            <p class="warning-text hidden">Bagging algorithm may take a few minutes to complete</p>
+
+            <input value="-114.31" type="number" placeholder="Longitude" data-key="longitude">
+            <input value="34.19" type="number" placeholder="Latitude" data-key="latitude">
+            <input value="15" type="number" placeholder="Housing median age" data-key="housing_median_age">
+            <input value="5612" type="number" placeholder="Total rooms" data-key="total_rooms">
+            <input value="1283" type="number" placeholder="Total bedrooms" data-key="total_bedrooms">
+            <input value="1015" type="number" placeholder="Population" data-key="population">
+            <input value="472" type="number" placeholder="Households" data-key="households">
+            <input value="1493600" type="number" placeholder="Median income" data-key="median_income">
+
+            <div class="hidden loading-image-container"><img class="loading-image" src="./images/loading.gif" alt="loading"></div>
+
+        </div>
+          <button class="calculate" type="submit">Calculate</button>
+          <div class="median_house_value_container hidden"><p id="median_house_value_text">Estimated median house value : <p id="median_house_value_value"></p></p></div>
+          <span>@Angelo Smorlesi</span>
+        </div>
+      </div>
+      <script src="index.js"></script>
+</body>
+</html>

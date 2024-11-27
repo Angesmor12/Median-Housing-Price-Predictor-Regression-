@@ -1,0 +1,24 @@
+{
+    "min_values" : {
+        "longitude" : -124.350000,
+        "latitude" : 32.540000,
+        "housing_median_age" : 1.000000,
+        "total_rooms" : 2.000000,
+        "total_bedrooms" : 1.000000,
+        "population" : 3.000000,
+        "households" : 1.0000002,
+        "median_income" : 0.499900,
+        "median_house_value" : 14999.000000
+    },
+    "max_values" : {
+        "longitude" : -114.310000,
+        "latitude" : 41.950000,
+        "housing_median_age" : 52.000000,
+        "total_rooms" : 37937.000000,
+        "total_bedrooms" : 6445.000000,
+        "population" : 35682.000000,
+        "households" : 6082.000000,
+        "median_income" : 15.000100,
+        "median_house_value" : 500001.000000
+    }
+}
