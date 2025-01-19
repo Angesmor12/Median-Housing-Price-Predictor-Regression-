@@ -1,4 +1,4 @@
-# Median Housing Price Predictor ( Regression model )
+# Median Housing Price Predictor (Regression model)
 
 Artificial Intelligence Project Focused on Regression Models.
 
